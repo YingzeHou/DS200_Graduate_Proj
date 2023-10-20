@@ -1,0 +1,1 @@
+### Download file "endomondoHR_proper.json" manually to folder
